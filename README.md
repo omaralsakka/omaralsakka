@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Software Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  at @hivehelsinki.
+I am a Software Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  at <a href="https://www.hive.fi/en/" target="_blank">Hive Helsinki</a>
 - :telescope: My interest and studies are in building frontend and backend for building Web applications and algorithms.
 
 - :zap: In my free time, I study an additional course called "Full Stack open" by University of Helsinki.
