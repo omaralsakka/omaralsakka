@@ -18,7 +18,7 @@ I am a Software Developer student <img src="https://media.giphy.com/media/WUlplc
 
 - :zap: In my free time, I study an additional course called "Full Stack open" by University of Helsinki.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelfattah-25bb1515b/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelfattah-25bb1515b/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
