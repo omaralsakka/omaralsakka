@@ -18,7 +18,7 @@ I am a Software Developer student <img src="https://media.giphy.com/media/WUlplc
 
 - :zap: In my free time, I study an additional course called "Full Stack open" by University of Helsinki.
 
-- :microphone: Additionally, I love to explain technical things to non-technical people and share the knowledge in different understandable ways.
+- :microphone: Additionally, I love to explain technical things to non-technical people and share my knowledge in different understandable ways.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelfattah-25bb1515b/)
 
