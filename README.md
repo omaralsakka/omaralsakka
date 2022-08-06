@@ -16,7 +16,7 @@
 I am a Software Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  at <a href="https://www.hive.fi/en/" target="_blank">Hive Helsinki</a>
 - :telescope: My interest and studies are in building frontend and backend for building Web applications and algorithms.
 
-- :zap: In my free time, I study an additional course called "Full Stack open" by University of Helsinki.
+- :zap: In my free time, I like to learn and read about new frameworks and concepts, play padel or cycle.
 
 - :microphone: Additionally, I love to explain technical things to non-technical people and share my knowledge in different understandable ways.
 
