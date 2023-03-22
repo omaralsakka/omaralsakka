@@ -13,8 +13,8 @@
 
 ### :man_technologist: About Me :
 
-I am a Software Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  at <a href="https://www.hive.fi/en/" target="_blank">Hive Helsinki</a>
-- :telescope: My interest and studies are in building frontend and backend for building Web applications and algorithms.
+I am a Full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  at <a href="https://www.smartly.io" target="_blank">Smartly.io</a>
+- :telescope: My interests are in building web applications.
 
 - :zap: In my free time, I like to learn and read about new frameworks and concepts, play padel or cycle.
 
