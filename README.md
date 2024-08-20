@@ -1,15 +1,4 @@
 ### Hi there 👋
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/omar-abdelfattah-25bb1515b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/omr.alsakka">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.facebook.com/officialomr">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-</div>
 
 ### :man_technologist: About Me :
 
@@ -19,8 +8,6 @@ I am a Full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I like to learn and read about new frameworks and concepts, play padel or cycle.
 
 - :microphone: Additionally, I love to explain technical things to non-technical people and share my knowledge in different understandable ways.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelfattah-25bb1515b/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
