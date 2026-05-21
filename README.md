@@ -1,11 +1,6 @@
-### Hi there 👋
+### Full Stack Developer, building interesting things at <a href="https://www.qoco.aero/" target="_blank">Qoco Systems</a>
 
-### :man_technologist: About Me :
-
-I am a Full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  at <a href="https://www.qoco.aero/" target="_blank">Qoco Systems</a>
-- :telescope: My interests are in building web applications.
-
-### :hammer_and_wrench: Languages and Tools :
+### Technologies I use
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
