@@ -2,7 +2,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  at <a href="https://www.smartly.io" target="_blank">Smartly.io</a>
+I am a Full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  at <a href="https://www.qoco.aero/" target="_blank">Qoco Systems</a>
 - :telescope: My interests are in building web applications.
 
 - :zap: In my free time, I like to learn and read about new frameworks and concepts, play padel or cycle.
